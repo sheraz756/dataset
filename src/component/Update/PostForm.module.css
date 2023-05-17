@@ -1,0 +1,60 @@
+/* PostForm.module.css */
+
+.formContainer {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    position: relative;
+    z-index: 9999;
+    background-color: #ddd;
+    top: 300px;
+
+  }
+  
+  .formTitle {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .formField {
+    margin-bottom: 15px;
+  }
+  
+  .label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .submitButton {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #4caf50;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 600px) {
+    .formContainer {
+      max-width: 300px;
+      padding: 15px;
+      padding: 15px;
+    }}  
+    @media (max-width: 400px) {
+        .formContainer {
+        max-width: 250px;
+        padding: 10px;
+        }
+        }

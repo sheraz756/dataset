@@ -1,0 +1,25 @@
+.rectangleHeader {
+    position: absolute;
+    top: 1240px;
+    left: 0px;
+    width: 100px;
+    height: 940px;
+    z-index: 9999;
+  }
+  .rectangleHeader {
+    top: 0;
+    left: 0;
+    background-color: #f5f6f7;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 141px;
+  }
+  .image1Icon {
+    position: absolute;
+    top: 0;
+    left: 86px;
+    width: 334px;
+    height: 167px;
+    z-index: 9999;
+    object-fit: cover;
+  }

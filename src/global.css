@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-raleway: Raleway;
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-lgi: 19px;
+  --font-size-base: 16px;
+  --font-size-mini: 15px;
+  --font-size-6xl: 25px;
+  --font-size-base-8: 16.8px;
+  --font-size-lgi-5: 19.5px;
+  --font-size-base-3: 16.3px;
+  --font-size-lg: 18px;
+  --font-size-xs: 12px;
+  --font-size-lgi-8: 19.8px;
+  --font-size-sm-8: 13.8px;
+  --font-size-3xs: 10px;
+  --font-size-xl-2: 20.2px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fdfdfd;
+  --color-gray-200: #848484;
+  --color-gray-300: #777;
+  --color-gray-400: #222;
+  --color-mediumslateblue: #6c5fff;
+  --color-black: #000;
+  --color-dimgray-100: #666;
+  --color-darkslategray-100: #333;
+  --color-blue: #011aff;
+  --color-darkgray: #989898;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-3xs-3: 9.3px;
+  --br-mid-2: 17.2px;
+  --br-67xl-2: 86.2px;
+}

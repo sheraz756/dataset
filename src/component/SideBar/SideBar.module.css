@@ -1,0 +1,180 @@
+.clientChannel2Child,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #e6e6e6;
+  width: 1600px;
+  height: 2508px;
+}
+.groupChild {
+  background-color: #2d2d2d;
+  width: 223px;
+  height: 1956px;
+}
+.bookings,
+.dashboard,
+.hotels {
+  position: absolute;
+  font-weight: 600;
+}
+.dashboard {
+  top: 0;
+  left: 0;
+  color: var(--color-darkgray);
+}
+.bookings,
+.hotels {
+  top: 230.39px;
+  left: 21px;
+}
+.bookings {
+  top: 449.97px;
+  left: 8px;
+}
+.channels {
+  top: 880.88px;
+  left: 5.9px;
+  cursor: pointer;
+  color: var(--color-gray-100);
+}
+.calendar,
+.channels,
+.reports,
+.settings {
+  position: absolute;
+  font-weight: 600;
+}
+.calendar {
+  top: 669.17px;
+  left: 9px;
+  color: var(--color-darkgray);
+}
+.reports,
+.settings {
+  top: 1097.42px;
+  left: 15px;
+}
+.settings {
+  top: 1318.88px;
+  left: 13px;
+}
+.dashboardParent {
+  position: absolute;
+  top: 254.83px;
+  left: 63px;
+  width: 105px;
+  height: 1342.88px;
+}
+.groupIcon,
+.groupIcon1,
+.groupInner,
+.groupItem {
+  position: absolute;
+  height: 69.91%;
+  width: 30.47%;
+  top: 9.66%;
+  right: 34.55%;
+  bottom: 20.43%;
+  left: 34.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon,
+.groupIcon1,
+.groupInner {
+  height: 2.66%;
+  width: 23.32%;
+  top: 65.75%;
+  right: 34.98%;
+  bottom: 31.59%;
+  left: 41.7%;
+}
+.groupIcon,
+.groupIcon1 {
+  height: 2.81%;
+  width: 24.66%;
+  top: 32.36%;
+  right: 33.18%;
+  bottom: 64.83%;
+  left: 42.15%;
+}
+.groupIcon1 {
+  top: 43.56%;
+  right: 37.22%;
+  bottom: 53.63%;
+  left: 38.12%;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 223px;
+  height: 1956px;
+  font-size: 20.17px;
+  color: var(--color-gray-300);
+}
+.vectorIcon {
+  position: absolute;
+  height: 90.79%;
+  width: 105%;
+  top: 11.18%;
+  right: -2.5%;
+  bottom: -1.97%;
+  left: -2.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 12px;
+  height: 12px;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 3px;
+}
+.vectorIcon1,
+.vectorParent {
+  position: absolute;
+  height: 100%;
+  width: 32.26%;
+  top: 0;
+  right: 67.74%;
+  bottom: 0;
+  left: 0;
+}
+.vectorIcon1 {
+  height: 86.84%;
+  width: 100%;
+  top: 13.16%;
+  right: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent,
+.vectorGroup {
+  position: absolute;
+  height: 100%;
+  width: 35.48%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 64.52%;
+}
+.groupParent {
+  height: 1.52%;
+  width: 5.81%;
+  top: 1.83%;
+  right: 14.06%;
+  bottom: 96.65%;
+  left: 80.13%;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-100);
+}

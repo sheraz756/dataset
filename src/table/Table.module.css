@@ -1,0 +1,117 @@
+/* Table.module.css */
+
+.table {
+    width: 85%;
+    border-collapse: collapse;
+    position: relative;
+    z-index: 9999;
+    top: 120px;
+    left: 222px;
+  }
+  
+  .table th {
+    border: 1px solid #6c5fff;
+    padding: 8px;
+    color: white;
+  }
+  td{
+    border: 1px solid #6c5fff;
+    padding: 8px;
+  }
+  
+  .table th {
+    background-color: #6c5fff;
+    text-align: left;
+  }
+  
+  .deleteBtn,
+  .updateBtn {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .deleteBtn {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .updateBtn {
+    background-color: #4caf50;
+    color: white;
+  }
+  .HotelImg{
+    height: 50px;
+    width: 100px;
+    background-color:none;
+  }
+  .header{
+    width:85%;
+    height: 100px;
+    position: relative;
+    left: 225px;
+    top: 100px;
+    z-index: 9999;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    background-color: #f5f6f7;
+  }
+  .search {
+    background: #323232;
+    border: none;
+    padding: 10px 20px;
+    width: 200px;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 10px;
+    outline: none;
+}
+.buttonCover{
+  width:85%;
+  position: relative;
+  left: 225px;
+  top: 285px;
+  z-index: 9999;
+  display: flex;
+  width: 300px;
+  align-items: center;
+}
+.btnToday{
+  height: 40px;
+  width: 100px;
+  color: #6c5fff;
+  background-color: #f5f6f7;
+  border: none;
+  margin: 10px;
+}
+.btnYesterday
+{
+  height: 40px;
+  width: 100px;
+  color: #6c5fff;
+  background-color: #f5f6f7;
+  border: none;
+}
+
+.GenrateCover{
+  width:85%;
+  height: 100px;
+  position: relative;
+  left: 225px;
+  top: 100px;
+  z-index: 9999;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  /* background-color: #f5f6f7; */
+}
+.Genrate {
+  height: 40px;
+  width: 150px;
+  color: #6c5fff;
+  background-color: #f5f6f7;
+  border: none;
+}
