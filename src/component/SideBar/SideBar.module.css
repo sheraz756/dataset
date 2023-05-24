@@ -66,6 +66,15 @@
   width: 105px;
   height: 1342.88px;
 }
+@media (max-width:991px){
+  .dashboardParent {
+    position: absolute;
+    top: 254.83px;
+    left: 63px;
+    width: 105px;
+    height: 1342.88px;
+  }
+}
 .groupIcon,
 .groupIcon1,
 .groupInner,
@@ -177,4 +186,11 @@
   left: 80.13%;
   font-size: var(--font-size-3xs);
   color: var(--color-gray-100);
+}
+/* SideBar.module.css */
+
+.rectangleParent {
+  /* Styles for the sidebar container */
+  /* Add your own styles here */
+  width: 280px; /* Adjust the width as needed */
 }

@@ -7,6 +7,21 @@
   width: 1600px;
   height: 2508px;
 }
+@media (max-width: 768px) {
+  /* Styles for screens up to 768px wide */
+  .clientChannel2 {
+    width: 600px;
+    height: 708px;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Styles for screens up to 480px wide */
+  .clientChannel2 {
+    width: 600px;
+    height: 708px;
+  }
+}
 .groupChild {
   background-color: #2d2d2d;
   width: 223px;
